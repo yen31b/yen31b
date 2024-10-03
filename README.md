@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! Yendry, from Costa Rica.<br>Computer Engineering student.</h2>
 
 ###
-
+I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+Social media
 <div align="left">
   <a href="https://www.linkedin.com/in/yendry-badillla-gutierrez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -55,11 +55,3 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
